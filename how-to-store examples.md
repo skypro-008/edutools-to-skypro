@@ -9,10 +9,12 @@
   - – – – __episiode_1__
   - – – – __episiode_2__
   - – – – __episiode_3__ 
+  - – – – requirements.txt
   - – part2
   - – – practice
   - – – __examples__
   - – – – __episiode_1__
   - – – – __episiode_2__
   - – – – __episiode_3__ 
+  - – – – requirements.txt
   - – project
