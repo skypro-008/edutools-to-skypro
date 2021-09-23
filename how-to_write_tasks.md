@@ -19,7 +19,7 @@ __Итак, как отдаются задачки?__
 * task.md (описание задачки)
 * test.md (описание тестов)
 * Все остаьные файлы испходников россыпью
-* Папка `solution` где лежит решенная задачка
+* Папка `solution` где лежит решенная задачка или файл soltion.py
 
 
 ### Пример структуры
@@ -30,16 +30,19 @@ __Итак, как отдаются задачки?__
       test.md
       app.py
       dataset.py
+      solution.py
     /simple_search
       task.md 
       test.md
       app.py
-      dataset.py    
+      dataset.py   
+      solution.py      
     /working_with_database
       task.md 
       test.md
       app.py
-      dataset.py   
+      dataset.py 
+      solution.py     
     order.md
     
 ```
